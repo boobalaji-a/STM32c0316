@@ -1,0 +1,1 @@
+A switch connected PA1 controls the LED connected to PA0
